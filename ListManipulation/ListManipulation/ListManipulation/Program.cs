@@ -49,7 +49,9 @@ namespace ListManipulation
                     break;
                 default:
                     break;
+                   Console.WriteLine("Deivid");
             }
         }
     }
 }
+
