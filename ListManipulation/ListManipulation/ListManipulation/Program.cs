@@ -11,7 +11,7 @@ namespace ListManipulation
             List<int> nums = Console.ReadLine().Split().Select(int.Parse).ToList();
             string[] cmd = Console.ReadLine().Split().ToArray();
             //cw .......
-           // Console.WriteLine("..............");
+           // Console.WriteLine(".....
             //........
            
 
@@ -53,3 +53,4 @@ namespace ListManipulation
         }
     }
 }
+
